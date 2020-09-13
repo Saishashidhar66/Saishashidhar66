@@ -41,6 +41,22 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saishashidhar66&show_icons=true&hide_border=true" />
 
 </details>
+<a href="https://github.com/Saishashidhar66/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saishashidhar66&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/Saishashidhar66/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.Saishashidhar66.vercel.app/api/top-langs/?username=Saishashidhar66&layout=compact&theme=radical" />
+</a>
+
+<a href="https://github.com/Saishashidhar66/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.Saishashidhar66.vercel.app/api/pin/?username=Saishashidhar66&repo=github-readme-stats&theme=radical" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
+</a>
 
 [website]: http://saishashidhar.pythonanywhere.com/
 [twitter]: https://twitter.com/Saishashidhar66
