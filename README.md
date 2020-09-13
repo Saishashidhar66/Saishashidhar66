@@ -11,7 +11,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play 
 ### Spotify Playing 🎧
-[<img src="https://open.spotify.com/album/2dnfny8QAiGbUk9NI2P9c2" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/0dnDTvdUco2UbaBjUtPxNS)
+[<img src="https://open.spotify.com/album/2dnfny8QAiGbUk9NI2P9c2" alt="SHASHI Spotify Playing" width="350" />](https://open.spotify.com/track/0dnDTvdUco2UbaBjUtPxNS)
 
 ### Connect with me:
 
