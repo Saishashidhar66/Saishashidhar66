@@ -6,9 +6,9 @@
 ## I'm a  Developer, and Student!
 
 - 🔭 I’m currently working on a [DJANGO PROJECT ][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Machine Learning and Deep Learning 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play 
 ### Spotify Playing 🎧
 [<img src="https://open.spotify.com/album/2dnfny8QAiGbUk9NI2P9c2" alt="SHASHI Spotify Playing" width="350" />](https://open.spotify.com/track/0dnDTvdUco2UbaBjUtPxNS)
